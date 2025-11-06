@@ -55,7 +55,7 @@ melos / codemagic / Figma / Jira / Confluence
 **ツミログ** （[app store](https://apps.apple.com/jp/app/%E3%83%84%E3%83%9F%E3%83%AD%E3%82%B0-%E7%BF%92%E6%85%A3%E5%8C%96-%E7%9B%AE%E6%A8%99%E9%81%94%E6%88%90%E3%82%A2%E3%83%97%E3%83%AA/id1540311155)/[google play](https://play.google.com/store/apps/details?id=com.mah.keeping&hl=ja)）  
 習慣化を支援するアプリ  
 2020年にリリース。ユーザー体験などにこだわり、改善を続け、評価4.7を維持  
-Flutter / Provider / FireStore
+Flutter / Provider / Firestore
 
 ---
 
