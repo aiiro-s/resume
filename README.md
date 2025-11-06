@@ -60,7 +60,7 @@ Flutter / Provider / FireStore
 ---
 
 ## 🙋‍♂️ External Projects
-- **EMConf 2024 スタッフ**：エンジニアリングマネージャー向けカンファレンスの当日サポート
+- **EMConf 2025 スタッフ**：エンジニアリングマネージャー向けカンファレンスの当日サポート
 
 ---
 
